@@ -6,7 +6,9 @@ https://opendata-townofchapelhill.hub.arcgis.com/datasets/NCDOT::bicycle-crashes
 Project Details:
 Data Breakdown for example: Dataset describes traffic crash parameters, including date of crashes, street name, weather condition, posted speed limit, traffic way type, types of road defects etc.
 
-Goals
+ **Goals** 
+ 
+ 
 We will be predicting whether an accident reported is a:
 Suspected Serious Injury 
 Suspected Minor Injury 
@@ -17,12 +19,14 @@ Unknown Injury
 
 Dataset parameters were used to predict "CrashSevr".
 
-Problems:
+**Problems**:
+
+
 1. A lot of columns have no rank or order. So we transform to dummy variables.
 2. Encode some categorical variables to numeric value
 3. Change 'Unknown' bikers and drivers age to median
 
-Methods Used: 
+**Methods Used**: 
 
 
 Data Cleaning
@@ -54,13 +58,19 @@ Grid Search CV
 
 Feature of Importance
 
-Metrics Used:
+**Metrics Used**:
 Recall
 
-Models Used:
+**Models Used**:
 KNN
+
+
 Naive Bayes
+
+
 Decision Tree
+
+
 Random Forest
 
 
