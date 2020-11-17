@@ -23,15 +23,35 @@ Problems:
 3. Change 'Unknown' bikers and drivers age to median
 
 Methods Used: 
+
+
 Data Cleaning
+
+
 Data Organizing/Exploring
+
+
 Data Visualization
+
+
 LabelEncoding, OneHotEncoding
+
+
 Feature Engineering
+
+
 Machine Learning
+
+
 Predictive Modeling
+
+
 Random Search CV
+
+
 Grid Search CV
+
+
 Feature of Importance
 
 Metrics Used:
