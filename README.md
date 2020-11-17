@@ -3,7 +3,9 @@
 Original Data Link:
 https://opendata-townofchapelhill.hub.arcgis.com/datasets/NCDOT::bicycle-crashes-2007-to-2019/data?geometry=-87.577%2C33.565%2C-71.921%2C36.709&orderBy=County&selectedAttribute=BikeAgeGrp
 
-Project Details:
+**Project Details**:
+
+
 Data Breakdown for example: Dataset describes traffic crash parameters, including date of crashes, street name, weather condition, posted speed limit, traffic way type, types of road defects etc.
 
  **Goals** 
@@ -59,6 +61,8 @@ Grid Search CV
 Feature of Importance
 
 **Metrics Used**:
+
+
 Recall
 
 **Models Used**:
